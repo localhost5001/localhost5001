@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @localhost5001
+- 👋 Hi, my name is Leo
 - 👀 I’m interested in web development
 - 📫 How to reach me: e_leokim@yahoo.com
 
